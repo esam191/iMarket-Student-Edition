@@ -1,5 +1,9 @@
 # iMarket-Student-Edition
-Mobile App written in Java for students who wish to sell products online
+Mobile App written in Java for students who wish to sell and/or purchase products online. Users can also make use of the maps functionality to filter products by location. 
+
+## Demo
+
+![Alt text](/demo.gif?raw=true "iMarket_App")
 
 ## Group Members/Collaborators:
 
@@ -8,3 +12,4 @@ Mobile App written in Java for students who wish to sell products online
 3. Mihir Patel - 100702168
 4. Clarissa Branje - 100716458
 5. Ashwin Shanmugam - 100700236
+
