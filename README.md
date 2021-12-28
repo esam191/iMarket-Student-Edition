@@ -1,6 +1,10 @@
 # iMarket-Student-Edition
 Mobile App written in Java for students who wish to sell and/or purchase products online. Users can also make use of the maps functionality to filter products by location. 
 
+## Tech 
+
+`Java`, `Android Studio`, `Google Maps API`
+
 ## Demo
 
 ![Alt text](/demo.gif?raw=true "iMarket_App")
