@@ -3,7 +3,7 @@ Mobile App written in Java for students who wish to sell and/or purchase product
 
 ## Tech 
 
-`Java`, `Android Studio`, `Google Maps API`
+`Java`, `Android Studio`, `Google Maps API`, `SQLite`
 
 ## Demo
 
